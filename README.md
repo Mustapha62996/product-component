@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -34,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mustapha62996.github.io/product-component/)
 
 
 
@@ -62,13 +61,7 @@ I learnt how to use the <picture> tag for responsive images
 
 ### Continued development
 
-I'm going to work on more projects that helps me improve in responsive web design
-
-
-### Useful resources
-
-- [W3schools.com](https://www.example.com) - This is an amazing article which helped me finally understand responsive images. I'd recommend it to anyone still learning this concept.
-
+I'm going to work on more projects that helps me improve in responsive web design.
 
 
 ## Author
