@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mustapha62996.github.io/product-component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-tpwUUj_KB2)
+- Live Site URL: [Live site URL](https://mustapha62996.github.io/product-component/)
 
 
 
